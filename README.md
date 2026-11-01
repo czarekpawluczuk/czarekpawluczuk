@@ -1,25 +1,106 @@
+ <div align="center">
+
+# Hey, I'm Cezary Pawluczuk! 👋
+
+### 💻 Junior Web Developer | Backend & Frontend Enthusiast
+
+*Turning coffee into code and bugs into features.* ☕
+
+<img src="https://komarev.com/ghpvc/?username=czarekpawluczuk&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cezary-pawluczuk-498088238/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/czarekpawluczuk)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```php
+<?php
+
+class Developer
+{
+    public string $name = "Cezary Pawluczuk";
+    public string $role = "Junior Web Developer";
+
+    public array $languages = [
+        "Java",
+        "PHP",
+        "JavaScript"
+    ];
+
+    public array $frameworks = [
+        "Laravel"
+    ];
+
+    public string $currentStatus = "Always learning";
+
+    public function getMotto(): string
+    {
+        return "It works on my machine. 🚀";
+    }
+}
+```
+
+- 🔭 Working on improving my development skills.
+- 🌱 Constantly learning new technologies and best practices.
+- 💡 Interested in backend development and building web applications.
+- ☕ Powered by coffee and questionable debugging decisions.
+
+## 🛠️ Tech Stack
+
 <div align="center">
-<h1>Hi! I'm Czarek 👋</h1>
-<img src="https://komarev.com/ghpvc/?username=czarekpawluczuk" alt="czarekpawluczuk" />
-<h3>⚡ Junior Web Developer</h3>
-<p>☕ You can buy me a coffe: <a href="https://www.buymeacoffee.com/czarekpawluczuk">Click here!</a></p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/20px-LinkedIn_logo_initials.png" alt="linkedin logo"> Add Me on LinkedIn: <a href="https://www.linkedin.com/in/cezary-pawluczuk-498088238/">Click here!</a></p>
-  
-</p>
 
-  <img src="https://i.imgur.com/HLHskql.gif" height=200px width=300px /></p>
+### Languages
+<img src="https://skillicons.dev/icons?i=java,php,js" />
 
-<details>
-  <summary>See more informations</summary>
-<h2>Github Account Statistics</h2>
-  
-[![Statystyki GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=czarekpawluczuk&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=2c06da&text_color=fff&show_icons=true&theme=dark)](https://github.com/czarekpawluczuk) <br>
+### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=laravel,html,css,mysql,git,github,vscode" />
 
-[![Liczba commitów](https://github-readme-stats.vercel.app/api?username=czarekpawluczuk&hide=html,&hide_border=true&show_icons=true&theme=dark&title_color=2c06da&text_color=fff)
+</div>
 
-<h2>Spotify history</h2>
+## 📊 GitHub Statistics
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=212n4tl3v5ftxwvbs3z7v572q&count=3" alt="spotify history">
+<div align="center">
 
-</details>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=czarekpawluczuk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czarekpawluczuk&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+## 😂 Developer's Reality
+
+<div align="center">
+
+**Me:** Just one small change before going to sleep.
+
+**Also me, 3 hours later:**
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Developer working hard"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Thanks for stopping by!
+
+*Feel free to explore my repositories and connect with me!*
+
+⭐ **Happy coding!**
+
 </div>
